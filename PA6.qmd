@@ -1,5 +1,6 @@
 ---
 title: "Untitled"
+author: "Rohit, Isabella, Jaden, Mayumi"
 format: html
 self-contained: true
 editor: visual
